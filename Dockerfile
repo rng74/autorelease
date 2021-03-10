@@ -6,8 +6,8 @@ LABEL "com.github.actions.description"="Build & Publish Debug APK on Github"
 LABEL "com.github.actions.icon"="package"
 LABEL "com.github.actions.color"="red"
 
-LABEL "repository"="https://github.com/ShaunLWM/action-release-debugapk"
-LABEL "maintainer"="ShaunLWM"
+LABEL "repository"="https://github.com/rng74/autorelease"
+LABEL "maintainer"="rng74"
 
 RUN apt update \
 	&& apt -y upgrade \
